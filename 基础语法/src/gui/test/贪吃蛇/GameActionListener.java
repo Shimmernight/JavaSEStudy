@@ -1,4 +1,4 @@
-package GUI.test.贪吃蛇;
+package gui.test.贪吃蛇;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

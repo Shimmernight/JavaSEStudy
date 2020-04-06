@@ -1,4 +1,4 @@
-package GUI.布局管理;
+package gui.布局管理;
 
 import java.awt.*;
 

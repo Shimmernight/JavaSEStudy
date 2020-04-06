@@ -1,4 +1,4 @@
-package GUI.容器;
+package gui.容器;
 
 import java.awt.*;
 import java.awt.event.WindowAdapter;

@@ -1,7 +1,6 @@
-package GUI.swing;
+package gui.swing;
 
 import javax.swing.*;
-import java.awt.*;
 
 public class myJFrame extends JFrame {
     //JFrame是一个顶级窗口

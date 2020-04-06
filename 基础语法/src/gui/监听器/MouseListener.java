@@ -1,4 +1,4 @@
-package GUI.监听器;
+package gui.监听器;
 
 import java.awt.*;
 import java.awt.event.MouseAdapter;

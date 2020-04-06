@@ -1,4 +1,4 @@
-package GUI.布局管理;
+package gui.布局管理;
 import java.awt.*;
 
 //将所有布局结合运用
