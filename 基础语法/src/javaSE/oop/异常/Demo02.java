@@ -1,4 +1,4 @@
-package oop.异常;
+package javaSE.oop.异常;
 
 public class Demo02 {
     public static void main(String[] args) {

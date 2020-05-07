@@ -1,4 +1,4 @@
-package oop.异常;
+package javaSE.oop.异常;
 
 //异常就是程序运行时，发生了不被期望的事件，它阻碍了程序的正常运行。
 public class Demo01 {

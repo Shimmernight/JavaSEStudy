@@ -1,6 +1,6 @@
 package oop;
 
-import oop.异常.MyException;
+import javaSE.oop.异常.MyException;
 
 public class Application {
     //2.继续向上抛出

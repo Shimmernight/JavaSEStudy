@@ -1,4 +1,4 @@
-package oop.异常;
+package javaSE.oop.异常;
 
 public class MyException extends Exception {
     //自定义异常

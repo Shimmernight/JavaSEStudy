@@ -1,4 +1,4 @@
-package oop.异常;
+package javaSE.oop.异常;
 
 public class Demo03 {
     //throws方法异常向上抛出
